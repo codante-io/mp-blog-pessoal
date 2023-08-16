@@ -33,8 +33,6 @@ Explore diferentes funcionalidades do Next.js criando um blog pessoal utilizando
 
 Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar sua criatividade e criar um design único. 🔗 [Link do Figma](https://www.figma.com/file/T2p9a43gEIeLGtta8M4Q7Z/%5BMini-Projeto%5D-Blog-Pessoal-com-NextJS-e-MDX?type=design&mode=design&t=SGG1jsf9C2PsbSvO-1)
 
-![Screenshots do mini-projeto](https://github.com/codante-io/mp-lista-de-avatares/assets/6475893/11a03ac8-aba0-4a31-bca5-3994def74b89)
-
 ## 👉🏽 Sobre esse mini-projeto
 
 ### Tecnologias sugeridas
