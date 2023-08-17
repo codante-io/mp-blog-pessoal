@@ -22,7 +22,7 @@ Explore diferentes funcionalidades do Next.js criando um blog pessoal utilizando
 
 ### Deploy
 
-- Faça o deploy da sua implementação.
+- Faça o deploy da sua implementação no Codante.
 
 ## 🔍 Dicas
 
@@ -31,7 +31,7 @@ Explore diferentes funcionalidades do Next.js criando um blog pessoal utilizando
 
 ## 🎨 Design Sugerido
 
-Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar sua criatividade e criar um design único. 🔗 [Link do Figma](https://www.figma.com/file/T2p9a43gEIeLGtta8M4Q7Z/%5BMini-Projeto%5D-Blog-Pessoal-com-NextJS-e-MDX?type=design&mode=design&t=SGG1jsf9C2PsbSvO-1)
+Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar sua criatividade e criar um design único. 🔗 [Link do Figma](https://www.figma.com/community/file/1273711237095306477)
 
 ## 👉🏽 Sobre esse mini-projeto
 
