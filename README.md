@@ -11,7 +11,7 @@ Explore diferentes funcionalidades do Next.js criando um blog pessoal utilizando
 
 ### Página inicial - lista de postagens
 
-- Liste as postagens do blog, contendo título, uma breve descrição, a data de publicação e um _link_ que direciona para a postagem completa.
+- Liste as postagens do blog contendo título, uma breve descrição, a data de publicação e um _link_ que direciona para a postagem completa.
 - A lista deve ser organizada de forma que as postagens mais recentes apareçam primeiro.
 
 ### Página da postagem
@@ -31,7 +31,9 @@ Explore diferentes funcionalidades do Next.js criando um blog pessoal utilizando
 
 ## 🎨 Design Sugerido
 
-Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar sua criatividade e criar um design único. 🔗 [Link do Figma](https://www.figma.com/community/file/1273711237095306477)
+Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar sua criatividade e criar um design único.
+
+🔗[Link do Figma](https://www.figma.com/community/file/1273711237095306477)
 
 ## 👉🏽 Sobre esse mini-projeto
 
@@ -51,7 +53,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para usar s
 
 ### Posso utilizar outras ferramentas além do MDX para criar as postagens?
 
-A utilização de arquivos MDX foi pensada para remover a necessidade de um _back-end_ para armazenar as postagens e aproveitar a praticidade de se criar conteúdos utilizando documentos no formato `markdown`. Isso tudo é facilitado pela biblioteca `@next/mdx`. No entanto, você pode utilizar outras ferramentas para criar as postagens. No entanto, a solução oficial pode não abordar essas variações.
+A utilização de arquivos MDX foi pensada para remover a necessidade de um _back-end_ para armazenar as postagens e aproveitar a praticidade de se criar conteúdos utilizando documentos no formato `markdown`. Isso tudo é facilitado pela biblioteca `@next/mdx`. A solução final oficial será desenvolvida utilizando essa ferramenta. No entanto, você pode implementar da forma que mais achar conveniente.
 
 ### Como faço para ver a resolução oficial?
 
